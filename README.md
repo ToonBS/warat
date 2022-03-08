@@ -1,2 +1,2 @@
-# warat.m-basic-solution.com
+# warat
 Application
